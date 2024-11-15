@@ -818,6 +818,7 @@ a:hover {
 }
 
 .list-social-3 {
+color: c2b59b;
   position: fixed;
   top: 0;
   bottom: 0;
@@ -7689,7 +7690,8 @@ button {
 }
 
 .bg-pattern-2 {
-  background: url("../images/icon/bg-pattern-03.jpg") center center/cover no-repeat;
+  overflow: visible !important;
+  background: url("../images/bg-pattern-03.jpg") center center/cover no-repeat;
 }
 
 .bg-image-1 {
