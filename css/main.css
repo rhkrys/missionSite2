@@ -41,7 +41,7 @@ img {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Poppins", Arial, "Helvetica Neue", sans-serif;
+  font-family: "League Gothic", Arial, "Helvetica Neue", sans-serif;
   font-weight: 700;
   text-transform: none;
   line-height: 1.2;
@@ -9814,6 +9814,10 @@ button:focus {
 
 .m-l-300 {
   margin-left: 300px;
+}
+
+.checklist {
+  padding-top: 0px;
 }
 
 @media (max-width: 1199px) {
